@@ -1,4 +1,4 @@
-id,average-price,build-time,second-hand-resource,district,latitude,second-hand-trading,address,court,url,longtitude,house-type
+id,average-price,build-time,second-hand-resource,district,latitude,second-hand-trading,address,court,url,longitude,house-type
 58ffb55d5e986a05d1cdb95f,82636,2000,1,东城,39.928836822509766,NULL,东起前拐棒胡同，西止东四南大街,南邻礼士胡同 前炒面胡同,https://m.fang.com/xiaoqu/bj/1010581561.html,116.42633819580078,住宅
 58ffb5545e986a05d1cdb955,115723,1985,23,东城,39.918922424316406,5,外交部街以北，东堂子胡同以南,外交部街小区,https://m.fang.com/xiaoqu/bj/1010532947.html,116.43089294433594,住宅
 58ffb5785e986a05d1cdb978,97219,1999,1,东城,39.894691467285156,NULL,粉厂胡同，天坛路北侧,粉厂胡同,https://m.fang.com/xiaoqu/bj/1010654705.html,116.40987396240234,住宅
