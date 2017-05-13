@@ -1,5 +1,6 @@
 ## Peking Educational District in China VS housing prices -- scrapping from fangtianxia
-   - [fangtianxia.com](fangtianxia.com)
+   - Scrape data from one of the largest second-hand housing resource websites
+   - [fang.com](fang.com)
 
 ## Python libraries:
    - Install Python3 and pip3
@@ -26,7 +27,7 @@
    - mongoexport -h localhost:27017 -d beijing_xicheng -c test -o xicheng.csv
 
 
-
 ## How to coordinate transform Map lat/lon for Baidu.com
-   - Baidu has its own lat/lon code. coordTransform_utils.py allow you transform the lat/lon for those from baidu map API.
+   - The geo info from Fangtianxia is from Baidu, which has its own lat/lon code. 
+   - coordTransform_utils.py allow you transform the lat/lon for those from baidu map API.
    - e.g. python coordTransform_utils.py data-cleaned/court/dongcheng_xiaoqu_cleaned.csv OutPutFileName.csv
