@@ -1,6 +1,6 @@
 ## Peking Educational District in China VS housing prices -- scraping from fangtianxia
    - Scrape data from one of the largest second-hand housing resource websites
-   - [www.fang.com](fang.com)
+   - [www.fang.com](www.fang.com)
 
 ## Python libraries:
    - Install Python3 and pip3
